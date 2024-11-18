@@ -14,8 +14,8 @@ This repository holds the challenge solutions submitted by members of the Worldw
 
 ## How to Contribute
 
-still loading... ;)
+Still loading... ;)
 
 ## Challenge Structure
 
-we should have put this out by now i know
+We should have put this out by now, I know.
