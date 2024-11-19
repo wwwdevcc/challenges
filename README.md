@@ -23,4 +23,4 @@ challenges/
 │   └── README.md
 ├── 2-challenge-name
 │   └── README.md
-└── ...
+└── 3-challenge-name
