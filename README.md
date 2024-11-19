@@ -10,17 +10,29 @@ Welcome to the wwwdev.cc Challenge Projects repository! This repository is a col
 
 ## About
 
-This repository holds the challenge solutions submitted by members of the Worldwide Developer Coding Community (WWDevCC). Each challenge will be organized by the year, challenge number, and member who submitted the solution.
+This repository holds the challenge solutions submitted by members of the wwwdev.cc. Each challenge will be organized by challenge number and date.
 
 ## How to Contribute
 
 Still loading... ;)
 
-## Challenge Structure
+## Challenges Structure
 
+Each challenge will have its own folder, named in the format `1-challenge-name`, `2-challenge-name`, and so on. Inside each folder, a `README.md` file will contain the challenge details, rules, and example inputs/outputs.
+
+### Example Structure:
+
+```
 challenges/
 ├── 1-challenge-name
 │   └── README.md
 ├── 2-challenge-name
 │   └── README.md
 └── 3-challenge-name
+    └── README.md
+```
+
+Each `README.md` file should include:
+- **Challenge Description**: A clear summary of the challenge.
+- **Rules/Constraints**: Any specific requirements for solving the challenge.
+- **Examples**: Sample inputs and expected outputs.
