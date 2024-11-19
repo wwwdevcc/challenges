@@ -6,7 +6,7 @@ Welcome to the wwwdev.cc Challenge Projects repository! This repository is a col
 
 - [About](#about)
 - [How to Contribute](#how-to-contribute)
-- [Challenge Structure](#challenge-structure)
+- [Challenge Structure](#challenges-structure)
 
 ## About
 
