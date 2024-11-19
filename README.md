@@ -1,6 +1,6 @@
-# WWDevCC Challenge Projects
+# wwwdev.cc Challenge Projects
 
-Welcome to the WWDevCC Challenge Projects repository! This repository is a collection of coding challenges tackled by our community members. Feel free to browse, contribute, and learn from various projects!
+Welcome to the wwwdev.cc Challenge Projects repository! This repository is a collection of coding challenges tackled by our community members. Feel free to browse, contribute, and learn from various projects!
 
 ## Contents
 
@@ -18,4 +18,9 @@ Still loading... ;)
 
 ## Challenge Structure
 
-We should have put this out by now, I know.
+challenges/
+├── 1-challenge-name
+│   └── README.md
+├── 2-challenge-name
+│   └── README.md
+└── ...
